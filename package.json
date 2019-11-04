@@ -1,0 +1,14 @@
+{
+  "name": "test-stuff",
+  "version": "1.0.0",
+  "description": "Testing JavaScript stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Marc Altmann",
+  "license": "ISC"
+}
