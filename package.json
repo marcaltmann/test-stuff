@@ -10,5 +10,8 @@
     "JavaScript"
   ],
   "author": "Marc Altmann",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
